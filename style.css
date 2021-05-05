@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap");
+.index{
+    background: url('La femme bg.png') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    display:table;
+    height:100%;
+    width:100%;
+}
+
+.landing-text{
+ display:table-cell;
+ vertical-align: middle;
+ text-align: center;
+ padding-top: 30%;
+ color: black;
+ left:20%;
+}
+
+.form-container{
+    color:#fff;
+    border:1px solid rgb(177, 34, 122);
+    padding:40px 40px;
+    margin-top:60px;
+    margin-left:40px;
+    position:fixed;
+  -webkit-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+   box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+}
+.formreg-container{
+color:#fff;
+border:1px solid rgb(177, 34, 122);
+padding :10px 40px;
+margin-top:40px;
+margin-left:20px;
+position:fixed;
+-webkit-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+}
+.learngrid{
+    padding-top: 8%;
+}
+.navbar{
+    background: rgb(177, 34, 122);
+    color: #fff;
+    position:relative fixed;
+    -webkit-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+     box-shadow: 3px 7px 55px -5px rgba(0,0,0,0.75);
+}
+.row{
+    padding-top: 5%;
+    padding-bottom: 15%;
+}
+.recipe{
+    background: url('generalbg.png') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    display:table;
+    height:100%;
+    width:100%;
+}
+.container-recipe{
+    padding-top:10%;
+    padding-left:10%;
+
+}
+.course{
+  background: url('generalbg.png') no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+  display:table;
+  height:100%;
+  width:100%;
+}
+.welcome{
+  background: url('generalbg.png') no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+  display:table;
+  height:100%;
+  width:100%;
+}
+.container-home{
+  padding-top:2%;
+  padding-left:5%;
+}
+h4{
+  color:white;
+font-size:1.5rem;
+font-weight:bold;
+}
+h3{
+  color:white;
+font-size:1.5rem;
+font-weight:bold;
+  }
